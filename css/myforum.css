@@ -1,0 +1,45 @@
+body {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size:small;
+}
+a {
+	text-decoration: none;
+}
+p {
+	color: maroon;
+}
+.error {
+	color: red;
+}
+.msg {
+	color: blue;
+}
+h3 {
+	font-size: 1.5em;
+	color: gray;
+	border-bottom: 1px solid black;
+}
+#comment {
+	width: 600px;
+	text-align: center;
+	margin: 50px;
+}
+#info {
+	width: 800px;
+	margin: 20px
+}
+#profile {
+	float: left;
+	margin: 50px;
+	width: 300px;
+}
+#thumb {
+	margin: 50px;
+	float: right;
+}
+#footer {
+	color: red;
+	text-align: center;
+	margin: 20px;
+	clear: left;
+}
